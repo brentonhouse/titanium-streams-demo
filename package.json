@@ -8,7 +8,7 @@
 		"lint": "eslint . --fix"
 	},
 	"dependencies": {
-		"@titanium/streams": "0.0.3",
+		"@titanium/streams": "0.0.4",
 		"fast-json-patch": "^2.2.0"
 	},
 	"devDependencies": {
